@@ -1,0 +1,28 @@
+body{
+    background:#E2E8DD;;
+    font-family: 'Dancing Script', cursive;
+}
+
+.header_div{
+    background:#95A3A4;
+    color:white;
+}
+
+.header_div p{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color:aliceblue;
+    letter-spacing:2px;
+    font-size:12px;
+    font-weight:bold;
+}
+.copy_right_footer{
+    position: fixed;
+    color: gray;
+    bottom: 0;
+    width:100%;
+    font-size:18px;
+    background-color: aliceblue;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px rgb(68, 66, 161);
+}
